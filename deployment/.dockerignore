@@ -1,0 +1,5 @@
+__pycache__
+*.pyc
+*.csv
+sample_*.json
+test_api.py
